@@ -3,6 +3,8 @@ Hipchat Emoticons
 
 A repository of custom hipchat emoticons used at [Pantheon](http://getpantheon.com). 
 
+*Note: You can discover all the default, built-in hipchat emoticons at [hipchat-emoticons.nyh.name](http://hipchat-emoticons.nyh.name/)*
+
 Creating custom emoticons
 -------------------------
 
