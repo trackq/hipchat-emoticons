@@ -1,7 +1,7 @@
 Hipchat Emoticons
 =================
 
-A repository of custom hipchat emoticons used at [Pantheon](http://getpantheon.com). 
+A repository of custom hipchat emoticons used at [Pantheon](http://getpantheon.com).
 
 *Note: You can discover all the default, built-in hipchat emoticons at [hipchat-emoticons.nyh.name](http://hipchat-emoticons.nyh.name/)*
 
@@ -15,9 +15,9 @@ Custom hipchat emoticons can be uploaded through your Hipchat account by admins:
 List of emoticons
 -----------------
 
-* ![pantheor](emoticons/pantheor.gif) (pantheor) 
+* ![pantheor](emoticons/pantheor.gif) (pantheor)
 * ![unicorn](emoticons/unicorn.gif) (unicorn)
 * ![shibe](emoticons/shibe.gif) (shibe)
 * ![shipit](emoticons/shipit.png) (shipit)
 * ![scotch](emoticons/scotch.png) (scotch)
-
+* ![scotch](emoticons/hammertime.gif) (hammertime)
