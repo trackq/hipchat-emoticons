@@ -3,6 +3,8 @@ Hipchat Emoticons
 
 A repository of custom hipchat emoticons used at [Pantheon](http://getpantheon.com).
 
+* Update: Emoticons used at [V-Nix.nl](http://www.v-nix.nl)
+
 *Note: You can discover all the default, built-in hipchat emoticons at [hipchat-emoticons.nyh.name](http://hipchat-emoticons.nyh.name/)*
 
 Creating custom emoticons
@@ -21,3 +23,8 @@ List of emoticons
 * ![shipit](emoticons/shipit.png) (shipit)
 * ![scotch](emoticons/scotch.png) (scotch)
 * ![scotch](emoticons/hammertime.gif) (hammertime)
+* ![notimeforthat](emoticons/notime.gif) (notimeforthat)
+* ![troll](emoticons/troll.gif) (troll)
+* ![smallviolin](emoticons/smallviolin.gif) (smallviolin)
+* ![fap](emoticons/fap.gif) (fap)
+
