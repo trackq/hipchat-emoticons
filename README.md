@@ -23,8 +23,8 @@ List of emoticons
 * ![shipit](emoticons/shipit.png) (shipit)
 * ![scotch](emoticons/scotch.png) (scotch)
 * ![scotch](emoticons/hammertime.gif) (hammertime)
-* ![notimeforthat](emoticons/notime.gif) (notimeforthat)
+* ![notimeforthat](emoticons/notimeforthat.gif) (notimeforthat)
 * ![troll](emoticons/troll.gif) (troll)
 * ![smallviolin](emoticons/smallviolin.gif) (smallviolin)
-* ![fap](emoticons/fap.gif) (fap)
+* ![fap](emoticons/fap.png) (fap)
 
